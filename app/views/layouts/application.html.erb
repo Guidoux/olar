@@ -18,6 +18,10 @@
   </head>
 
   <body>
-    <%= yield %>
+    <%= render 'layouts/navbar' %>
+    <div class="container">
+      <%= render 'layouts/notifications' %>
+      <%= yield %>
+    </div>
   </body>
 </html>
