@@ -50,3 +50,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'devise'
 gem 'omniauth-facebook'
+gem 'simple_form'
+gem 'country_select'
