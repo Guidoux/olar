@@ -9,6 +9,7 @@ class User < ApplicationRecord
       user.password = Devise.friendly_token[0,20]
       user.name = auth.info.name
       user.profile_picture = auth.info.image
+      user.location = auth.extra.raw_info.location.name
     end
   end
 
