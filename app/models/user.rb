@@ -10,6 +10,7 @@ class User < ApplicationRecord
       user.name = auth.info.name
       user.profile_picture = auth.info.image
       user.location = auth.extra.raw_info.location.name
+      user.locale = auth.extra.raw_info.locale
     end
   end
 
