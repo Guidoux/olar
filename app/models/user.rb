@@ -13,6 +13,7 @@ class User < ApplicationRecord
       user.locale = auth.extra.raw_info.locale
       user.first_name = auth.extra.raw_info.first_name
       user.last_name = auth.extra.raw_info.last_name
+      user.hometown = auth.extra.raw_info.hometown.name
     end
   end
 
