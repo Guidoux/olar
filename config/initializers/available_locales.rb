@@ -1,0 +1,1 @@
+Rails.application.config.i18n.available_locales = ['pt-BR', :en, :sv, :fr, :es, :it]
