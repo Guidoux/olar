@@ -4,4 +4,7 @@
     <p>Here we should write our value proposition</p>
     <p><%= link_to "Sign in with Facebook", user_facebook_omniauth_authorize_path, class: 'btn btn-primary btn-lg' %></p>
   </div>
+  <% I18n.available_locales.each do |locale| %>
+    <%= link_to_unless_current t('language', :locale => locale), locale: locale.to_s %>    
+  <% end %>
 </center>
