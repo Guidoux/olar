@@ -5,4 +5,6 @@
     home:
       welcome_to: 'Bem-vindo ao'      
       value_proposition: 'Cada proposta pode resolver um problema ou satisfazer uma necessidade diferente de cada Segmento de Clientes.'
-      sign_in_with: 'Entrar com %{provider}'      
+      sign_in_with: 'Entrar com %{provider}'
+    thanks:
+      message: 'Thank you for the registration. We will tell you when our product is ready ASAP!'

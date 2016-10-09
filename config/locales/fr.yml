@@ -6,3 +6,5 @@ fr:
       welcome_to: 'Bienvenue à'
       value_proposition: 'Une proposition de valeur est une promesse de valeur à livrer et reconnu. Il est également une croyance au client comment la valeur (avantage) sera livré et expérimenté.'
       sign_in_with: 'Connexion avec %{provider}'
+    thanks:
+      message: 'Thank you for the registration. We will tell you when our product is ready ASAP!'
