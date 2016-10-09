@@ -250,7 +250,7 @@ Devise.setup do |config|
   # config.omniauth :github, 'APP_ID', 'APP_SECRET', scope: 'user,public_repo'
   config.omniauth :facebook, Rails.application.secrets.facebook_app_id, Rails.application.secrets.facebook_app_secret, 
     scope: 'email', 
-    info_fields: 'email,name,first_name,last_name,locale'
+    info_fields: 'email'
 
   # ==> Warden configuration
   # If you want to use other strategies, that are not supported by Devise, or
