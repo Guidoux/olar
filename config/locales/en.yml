@@ -1,2 +1,8 @@
 en:
   language: 'English'
+
+  welcome:
+    home:
+      welcome_to: 'Welcome to'
+      value_proposition: 'A value proposition is a promise of value to be delivered and acknowledged. It is also a belief from the customer how value (benefit) will be delivered and experienced.'
+      sign_in_with: 'Sign in with %{provider}'

@@ -1,2 +1,8 @@
 it:
   language: 'Italiano'
+
+  welcome:
+    home:
+      welcome_to: 'Benvenuto a'
+      value_proposition: 'La Proposta di valore (in inglese: value proposition) è una promessa di valore da consegnare e riconosciuta ed una convinzione da parte del cliente che verrà ricevuta.'
+      sign_in_with: 'Accedi con %{provider}'      
