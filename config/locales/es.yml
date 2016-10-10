@@ -4,7 +4,7 @@ es:
   welcome:
     home:
       welcome_to: ''
-      value_proposition: 'Aprender un nuevo idioma conociendo gente nueva.'
+      value_proposition: 'Aprender un nuevo idioma conociendo gente nueva!'
       sign_in_with: 'Iniciar sesión con %{provider}'
     thanks:
-      message: 'Gracias por el registro. Le diremos cuando nuestro producto está listo lo antes posible!'
+      message: 'Gracias por el registro. Le diremos cuando nuestro producto esté listo lo antes posible!'
