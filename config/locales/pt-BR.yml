@@ -3,8 +3,8 @@
 
   welcome:
     home:
-      welcome_to: 'Bem-vindo ao'      
-      value_proposition: 'Cada proposta pode resolver um problema ou satisfazer uma necessidade diferente de cada Segmento de Clientes.'
+      welcome_to: ''      
+      value_proposition: 'Aprenda uma língua extrangeira conhecendo gente nova!'
       sign_in_with: 'Entrar com %{provider}'
     thanks:
-      message: 'Thank you for the registration. We will tell you when our product is ready ASAP!'
+      message: 'Obrigado por registrar-se, entraremos em contato o mais cedo possível'
