@@ -3,8 +3,8 @@ en:
 
   welcome:
     home:
-      welcome_to: 'Welcome to'
-      value_proposition: 'A value proposition is a promise of value to be delivered and acknowledged. It is also a belief from the customer how value (benefit) will be delivered and experienced.'
+      welcome_to: ''
+      value_proposition: 'Learn a new language through meeting new people'
       sign_in_with: 'Sign in with %{provider}'
     thanks:
       message: 'Thank you for the registration. We will tell you when our product is ready ASAP!'
