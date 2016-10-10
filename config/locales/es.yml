@@ -3,8 +3,8 @@ es:
 
   welcome:
     home:
-      welcome_to: 'Bienvenido al'
-      value_proposition: 'En mercadotecnia y administración, una propuesta de valor es una estrategia empresarial que maximiza la demanda a través de configurar óptimamente la oferta.'
+      welcome_to: ''
+      value_proposition: 'Aprender un nuevo idioma conociendo gente nueva.'
       sign_in_with: 'Iniciar sesión con %{provider}'
     thanks:
-      message: 'Thank you for the registration. We will tell you when our product is ready ASAP!'
+      message: 'Gracias por el registro. Le diremos cuando nuestro producto está listo lo antes posible!'
