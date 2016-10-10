@@ -7,4 +7,4 @@ en:
       value_proposition: 'Learn a new language through meeting new people'
       sign_in_with: 'Sign in with %{provider}'
     thanks:
-      message: 'Thank you for the registration. We will tell you when our product is ready ASAP!'
+      message: 'Thank you for the registration. We will contact you ASAP.'
